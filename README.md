@@ -1,7 +1,7 @@
 # Bufflo-Burger-clone-website
 This project is a compilation of work completed during ITI's intensive 4-month CMS track training.
 
-## important note this is just a clone from bufflo burger website only for learning purposes
+## Important note: This is a clone of the Buffalo Burger website created solely for learning purposes.
 
 ## 🎥 Project Overview
 [![Watch the video](https://img.youtube.com/vi/9GPdvOJG6lg/maxresdefault.jpg)](https://youtu.be/9GPdvOJG6lg)
